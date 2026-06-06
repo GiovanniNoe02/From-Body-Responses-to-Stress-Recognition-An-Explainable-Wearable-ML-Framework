@@ -1,4 +1,4 @@
-# Stress Detection from Physiological Signals using WESAD
+# From Bodily Responses to Stress Recognition: An Explainable Wearable ML Framework
 
 ## Authors
 
